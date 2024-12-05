@@ -1,1 +1,1 @@
-# RazvojWebApk-kol
+Repozitorij: https://github.com/lmajetic/RazvojWebApk-kol.git
